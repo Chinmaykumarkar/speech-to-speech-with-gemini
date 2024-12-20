@@ -4,7 +4,7 @@
 
 **Description:**
 
-This project demonstrates the creation of an interactive chatbot capable of speech-to-speech communication using the Gemini API. The chatbot leverages Gemini's advanced language capabilities to provide a natural and engaging conversational experience.
+This project demonstrates the creation of an interactive code capable of speech-to-speech communication using the Gemini API. The code leverages Gemini's advanced language capabilities to provide a natural and engaging conversational experience.
 
 **Prerequisites:**
 
