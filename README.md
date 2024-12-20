@@ -1,6 +1,6 @@
 ## **README**
 
-### **Project: Interactive Speech-to-Speech Chatbot**
+### **Project: Interactive Speech-to-Speech with gemini**
 
 **Description:**
 
